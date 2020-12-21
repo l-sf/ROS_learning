@@ -1,0 +1,9 @@
+/home/lsf/catkin_ws/install/_setup_util.py
+/home/lsf/catkin_ws/install/env.sh
+/home/lsf/catkin_ws/install/setup.bash
+/home/lsf/catkin_ws/install/local_setup.bash
+/home/lsf/catkin_ws/install/setup.sh
+/home/lsf/catkin_ws/install/local_setup.sh
+/home/lsf/catkin_ws/install/setup.zsh
+/home/lsf/catkin_ws/install/local_setup.zsh
+/home/lsf/catkin_ws/install/.rosinstall
