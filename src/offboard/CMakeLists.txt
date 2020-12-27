@@ -9,9 +9,32 @@ project(offboard)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   geometry_msgs
+  cmake_modules 
+  image_transport
+  cv_bridge
+  std_msgs
   mavros
   roscpp
 )
+
+set(DEBUG_ENABLE OFF)
+IF(DEBUG_ENABLE STREQUAL ON)
+    add_definitions(-D E_DEBUG)
+ENDIF()
+
+set(OPENMP_ENABLE OFF)
+IF(OPENMP_ENABLE STREQUAL ON)
+    FIND_PACKAGE( OpenMP REQUIRED)
+    if(OPENMP_FOUND)
+        message("OPENMP FOUND")
+        set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} ${OpenMP_C_FLAGS}")
+        set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${OpenMP_CXX_FLAGS}")
+        add_definitions(-D USE_OPENMP)
+    endif()
+ENDIF()
+
+find_package(OpenCV REQUIRED)
+find_package(PCL REQUIRED)
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
@@ -116,8 +139,10 @@ catkin_package(
 ## Specify additional locations of header files
 ## Your package locations should be listed before other locations
 include_directories(
-# include
+  include
   ${catkin_INCLUDE_DIRS}
+  ${OpenCV_INCLUDE_DIRS}
+  usr/local/include
 )
 
 ## Declare a C++ library
@@ -207,4 +232,4 @@ include_directories(
 
 
 add_executable(offboard_node src/offboard_node.cpp)
-target_link_libraries(offboard_node ${catkin_LIBRARIES})
+target_link_libraries(offboard_node ${catkin_LIBRARIES} ${OpenCV_LIBS})

@@ -9,7 +9,34 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7efd1c47-e6a8-4649-835b-8a7eebce1e8d" name="Default Changelist" comment="" />
+    <list default="true" id="7efd1c47-e6a8-4649-835b-8a7eebce1e8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/beginner_tutorials/CMakeFiles/listener.dir/src/listener.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/beginner_tutorials/CMakeFiles/listener.dir/src/listener.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/beginner_tutorials/CMakeFiles/talker.dir/src/talker.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/beginner_tutorials/CMakeFiles/talker.dir/src/talker.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/offboard/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/offboard/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/lib/beginner_tutorials/listener" beforeDir="false" afterPath="$PROJECT_DIR$/../../devel/lib/beginner_tutorials/listener" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/lib/beginner_tutorials/talker" beforeDir="false" afterPath="$PROJECT_DIR$/../../devel/lib/beginner_tutorials/talker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devel/lib/offboard/offboard_node" beforeDir="false" afterPath="$PROJECT_DIR$/../../devel/lib/offboard/offboard_node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../beginner_tutorials/src/listener.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../beginner_tutorials/src/listener.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../beginner_tutorials/src/talker.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../beginner_tutorials/src/talker.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mbot_gazebo/launch/mbot_laser_nav_gazebo.launch" beforeDir="false" afterPath="$PROJECT_DIR$/../mbot_gazebo/launch/mbot_laser_nav_gazebo.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offboard_node.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/offboard_node.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,25 +49,51 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/offboard_node.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="4921">
+              <caret line="283" column="17" lean-forward="true" selection-start-line="283" selection-start-column="17" selection-end-line="283" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="54" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/offboard_node.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="28" />
+    <option name="width" value="966" />
+    <option name="height" value="1052" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Source Files'; set:Project Source Files; class com.jetbrains.cidr.lang.search.scopes.ProjectSourcesScopeProvider$SourceFilesScope">
+          <expand>
+            <path>
+              <item name="offboard" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -57,23 +110,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Source Files'; set:Project Source Files; class com.jetbrains.cidr.lang.search.scopes.ProjectSourcesScopeProvider$SourceFilesScope">
-          <expand>
-            <path>
-              <item name="offboard" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,20 +142,24 @@
       <updated>1608201873087</updated>
       <workItem from="1608201874654" duration="928000" />
       <workItem from="1608292013895" duration="748000" />
-      <workItem from="1608514933448" duration="624000" />
+      <workItem from="1608514933448" duration="2158000" />
+      <workItem from="1608687309086" duration="854000" />
+      <workItem from="1608773007255" duration="15399000" />
+      <workItem from="1608858957057" duration="15045000" />
+      <workItem from="1609054685388" duration="215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2300000" />
+    <option name="totallyTimeSpent" value="35361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19614148" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.16452305" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -124,7 +171,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="CMake" order="11" visible="true" weight="0.21212122" />
+      <window_info active="true" anchor="bottom" id="CMake" order="11" visible="true" weight="0.1923077" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -135,12 +182,18 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/coding/catkin_dsst/src/px4_control/src/control_com.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/offboard_node.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="4921">
+          <caret line="283" column="17" lean-forward="true" selection-start-line="283" selection-start-column="17" selection-end-line="283" selection-end-column="17" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
