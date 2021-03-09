@@ -131,6 +131,9 @@ offboard_node_EXTERNAL_OBJECTS =
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/lib/x86_64-linux-gnu/libpthread.so
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_cudabgsegm.so.3.4.8
+/home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_cudaobjdetect.so.3.4.8
+/home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_cudastereo.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_stitching.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_superres.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_videostab.so.3.4.8
@@ -159,7 +162,12 @@ offboard_node_EXTERNAL_OBJECTS =
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_ximgproc.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_xobjdetect.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_xphoto.so.3.4.8
+/home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_cudafeatures2d.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_shape.so.3.4.8
+/home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_cudacodec.so.3.4.8
+/home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_cudaoptflow.so.3.4.8
+/home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_cudalegacy.so.3.4.8
+/home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_cudawarping.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_highgui.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_videoio.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_viz.so.3.4.8
@@ -176,8 +184,12 @@ offboard_node_EXTERNAL_OBJECTS =
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_features2d.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_flann.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_photo.so.3.4.8
+/home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_cudaimgproc.so.3.4.8
+/home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_cudafilters.so.3.4.8
+/home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_cudaarithm.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_imgproc.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_core.so.3.4.8
+/home/lsf/catkin_ws/devel/lib/offboard/offboard_node: /usr/local/lib/libopencv_cudev.so.3.4.8
 /home/lsf/catkin_ws/devel/lib/offboard/offboard_node: offboard/CMakeFiles/offboard_node.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lsf/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/lsf/catkin_ws/devel/lib/offboard/offboard_node"
 	cd /home/lsf/catkin_ws/build/offboard && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/offboard_node.dir/link.txt --verbose=$(VERBOSE)

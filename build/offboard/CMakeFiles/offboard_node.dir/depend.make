@@ -158,6 +158,16 @@ offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/includ
 offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/core/utility.hpp
 offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/core/version.hpp
 offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/core/vsx_utils.hpp
+offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/cudaarithm.hpp
+offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/cudabgsegm.hpp
+offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/cudacodec.hpp
+offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/cudafeatures2d.hpp
+offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/cudafilters.hpp
+offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/cudaimgproc.hpp
+offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/cudaobjdetect.hpp
+offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/cudaoptflow.hpp
+offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/cudastereo.hpp
+offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/cudawarping.hpp
 offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/dnn.hpp
 offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/dnn/dict.hpp
 offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o: /usr/local/include/opencv2/dnn/dnn.hpp

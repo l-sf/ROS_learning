@@ -159,6 +159,16 @@ offboard/CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o
  /usr/local/include/opencv2/core/utility.hpp
  /usr/local/include/opencv2/core/version.hpp
  /usr/local/include/opencv2/core/vsx_utils.hpp
+ /usr/local/include/opencv2/cudaarithm.hpp
+ /usr/local/include/opencv2/cudabgsegm.hpp
+ /usr/local/include/opencv2/cudacodec.hpp
+ /usr/local/include/opencv2/cudafeatures2d.hpp
+ /usr/local/include/opencv2/cudafilters.hpp
+ /usr/local/include/opencv2/cudaimgproc.hpp
+ /usr/local/include/opencv2/cudaobjdetect.hpp
+ /usr/local/include/opencv2/cudaoptflow.hpp
+ /usr/local/include/opencv2/cudastereo.hpp
+ /usr/local/include/opencv2/cudawarping.hpp
  /usr/local/include/opencv2/dnn.hpp
  /usr/local/include/opencv2/dnn/dict.hpp
  /usr/local/include/opencv2/dnn/dnn.hpp
